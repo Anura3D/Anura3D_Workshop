@@ -1,6 +1,7 @@
 import subprocess
 import os
-
+from IPython.display import display, update_display, HTML
+   
 def run_executable(executable_path, argument):
     try:
         # Run the executable with the specified argument
@@ -11,7 +12,7 @@ def run_executable(executable_path, argument):
         print("Error: Executable not found.")
     except Exception as e:
         print(f"An error occurred: {e}")
-
+    
 def get_highest_file(directory, base_extension):
     # Get a list of files in the directory
     files = os.listdir(directory)

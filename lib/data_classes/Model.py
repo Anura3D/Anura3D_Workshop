@@ -42,6 +42,7 @@ class model:
         self.benchmark_info = model_info
 
     def run_stage(self):
+        
         # Purpose: Run a stage of the model 
         run_executable(self.exe_path, self.model_path)
 
