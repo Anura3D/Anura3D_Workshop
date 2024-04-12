@@ -3,7 +3,7 @@
 ## Setting up Google Colab
 
 1) Go to [Google Colab](https://colab.research.google.com/)
-2) Select Github
+2) If the below screen directly shows click Github. Otherwise select ```File-> Open Notebook``` on the top left of the menu.
 ![alt text](image.png)
 
 3) Search for Anura3D and select Anura3D_Workshop
