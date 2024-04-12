@@ -10,4 +10,12 @@
 ![alt text](image-1.png)
 
 4) Click ```1)_Running_Oedometer.ipynb```. This should open the Jupyter notebook
-5) 
+
+## Running the Jupyter Notebook   
+1) Cells can be run one by one, using the play button on the left of the cell or all at once, by clicking ```Runtime``` in the top menu.
+
+2) The model should run automatically and the process of running the model is done.
+
+## Processing the data
+
+
