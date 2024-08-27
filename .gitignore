@@ -1,0 +1,17 @@
+# Files to ignore
+*CPS_*
+!*.CPS_001
+*.MLG
+*.RX
+*.ENG
+*.BRF*
+*.INF
+*.vtk*
+*.BMR
+*.BMS
+*.GIP*
+*.PAR*
+*.TST
+
+# ignoring standard python files
+*.pyc
