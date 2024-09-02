@@ -1,0 +1,2 @@
+"Anura3D_2024.exe" "C:/Geotech_Research/Anura3D_Benchmarks/Tutorial_Benchmarks/column_collapse/triangle_elems/MPM_Mixed/column_collapse_tri_Mixed_2024_v1_1.A3D\column_collapse_tri_Mixed_2024_v1_1"
+PAUSE

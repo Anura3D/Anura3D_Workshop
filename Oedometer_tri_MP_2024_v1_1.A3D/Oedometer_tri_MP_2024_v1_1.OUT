@@ -1,0 +1,76 @@
+
+Anura3D: Numerical modelling and simulation of large deformationsand soil–water–structure interaction using the material point method (MPM)
+Kernel name       : ./Oedometer_tri_MP_2024_v1_1.A3D/Anura3D_2024.exe
+Kernel version    : 2024.1.0.10179
+Last update date  : 2024-06-26 15:36:42 +0200 (Wed, 26 Jun 2024)
+Last compiled date: 2024-06-27 16:03:50.850
+
+Project name: c:\Geotech_Research\Anura3D_Workshop\Oedometer_tri_MP_2024_v1_1.A3D\Oedometer_tri_MP_2024_v1_1
+Reading CPS file: c:\Geotech_Research\Anura3D_Workshop\Oedometer_tri_MP_2024_v1_1.A3D\Oedometer_tri_MP_2024_v1_1.CPS_001
+Reading... ### Anura3D_2024 ###
+Reading GOM file (Materials): c:\Geotech_Research\Anura3D_Workshop\Oedometer_tri_MP_2024_v1_1.A3D\Oedometer_tri_MP_2024_v1_1.GOM
+Reading... ### Anura3D_2024 ###
+[WARNING] : (time step:      1) GOM file: Non-default value for $$BULK_MODULUS_LIQUID (MATERIAL: Soil).
+Darcy permeability is    0.1002E-001 (MATERIAL: Soil).
+Loading constitutive model... linear_elasticity
+Reading GOM file (Geometry): c:\Geotech_Research\Anura3D_Workshop\Oedometer_tri_MP_2024_v1_1.A3D\Oedometer_tri_MP_2024_v1_1.GOM
+Reading... ### Anura3D_2024 ###
+Calculation of load step      1
+ MaxWaveSpeed :    0.1932E+003
+ MinTimeStep  :    0.3660E-003
+ TimeIncrement:    0.1830E-003
+Calculation of load step      2
+Calculation of load step      3
+Calculation of load step      4
+Calculation of load step      5
+Calculation of load step      6
+Calculation of load step      7
+Calculation of load step      8
+Calculation of load step      9
+Calculation of load step     10
+Calculation of load step     11
+Calculation of load step     12
+Calculation of load step     13
+Calculation of load step     14
+Calculation of load step     15
+Calculation of load step     16
+Calculation of load step     17
+Calculation of load step     18
+Calculation of load step     19
+Calculation of load step     20
+Calculation of load step     21
+Calculation of load step     22
+Calculation of load step     23
+Calculation of load step     24
+Calculation of load step     25
+Calculation of load step     26
+Calculation of load step     27
+Calculation of load step     28
+Calculation of load step     29
+Calculation of load step     30
+Calculation of load step     31
+Calculation of load step     32
+Calculation of load step     33
+Calculation of load step     34
+Calculation of load step     35
+Calculation of load step     36
+Calculation of load step     37
+Calculation of load step     38
+Calculation of load step     39
+Calculation of load step     40
+Calculation of load step     41
+Calculation of load step     42
+Calculation of load step     43
+Calculation of load step     44
+Calculation of load step     45
+Calculation of load step     46
+Calculation of load step     47
+Calculation of load step     48
+Calculation of load step     49
+Calculation of load step     50
+  Item  Name of subroutine/function/procedure        Times Time per call Total time (se Percentage
+     1| Main                                    |        1|   0.2935E+002|   0.2935E+002|100.00%
+     2| Initialisation                          |        1|   0.0000E+000|   0.0000E+000|  0.00%
+     3| LoadStep                                |       50|   0.5867E+000|   0.2933E+002| 99.94%
+     4| WriteResults                            |       50|   0.1129E+000|   0.5647E+001| 19.24%
+Calculation finished.

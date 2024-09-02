@@ -17,6 +17,6 @@ Loading constitutive model... linear_elasticity
 Reading GOM file (Geometry): c:\Geotech_Research\Anura3D_Workshop\Oedometer_tri_MP_v1_1.A3D\Oedometer_tri_MP_v1_1.GOM
 Reading... ### Anura3D_2023 ###
   Item  Name of subroutine/function/procedure        Times Time per call Total time (se Percentage
-     1| Main                                    |        1|   0.1400E-001|   0.1400E-001|100.00%
+     1| Main                                    |        1|   0.1300E-001|   0.1300E-001|100.00%
      2| Initialisation                          |        1|   0.0000E+000|   0.0000E+000|  0.00%
 Calculation finished.
