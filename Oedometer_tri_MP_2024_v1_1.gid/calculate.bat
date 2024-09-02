@@ -1,0 +1,2 @@
+"C:/Geotech_Research/Anura3D_Benchmarks/Tutorial_Benchmarks/small_strain_oedometer/triangle_elems/MPM_MP/Oedometer_tri_MP_2024_v1_1.A3D\Anura3D_2024.exe" "C:/Geotech_Research/Anura3D_Benchmarks/Tutorial_Benchmarks/small_strain_oedometer/triangle_elems/MPM_MP/Oedometer_tri_MP_2024_v1_1.A3D\Oedometer_tri_MP_2024_v1_1"
+PAUSE
