@@ -68,7 +68,7 @@ def read_par_data(directory, file_pattern_suffix="PAR_*"):
     # Read each file into the dictionary with filename as key
     for file in matching_files:
         key = file.split('\\')[-1]  # Get the filename without the extension
-        df = pd.read_csv(file, delim_whitespace=True)
+        df = pd.read_csv(file, sep="\s+")
         dataframe_dict[key] = df
 
     return dataframe_dict
